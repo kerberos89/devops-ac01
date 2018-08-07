@@ -1,0 +1,5 @@
+#Teste
+
+#De acordo com o que foi definido na análise de requisitos, o design está coerente com o que precisa ser feito. 
+#A análise de requisito pede que tenha uma área de login, um fluxo de compra e uma tela onde o usuário pode reclamar ou solicitar ajuda. O design atende todos esses requisitos.
+#A única coisa que não foi mencionada na parte do design foi como vai ser feito a integração com algum meio de pagamento, isso deve ser revisto.
