@@ -1,0 +1,10 @@
+#Teste
+
+#A Análise de requisitos e o Design possuem incoerência em um dos processos, será necessário revisar antes de dar continuidade.    
+
+#Análise de Requisitos: Tela de cadastro e login - Design: Layout único, em uma página e integração com as redes sociais OK
+#Análise de Requisitos: Catálogo de produtos - Design: Galeria de imagens e disponibilidade do produto OK
+#Análise de Requisitos: Fluxo de compra/entrega - Design:  Integração com Google Maps indicando o endereço da loja física OK
+#Análise de Requisitos: Integração com o sistema de logística - Design: Consulta de CEP e cálculo de frete OK
+#Análise de Requisitos: SAC (tela de ajuda e comunicação) - Design:  Programa de chatterbot com usuário e avaliações de outros usuários OK
+#Análise de Requisitos: Integração com meio de pagamento online - Design: - NOK
