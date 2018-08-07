@@ -1,13 +1,14 @@
 #Codificação
+
 #Desenvolvimento Teórico
 
 Para o desenvolvimento do software em sua parte backend, levando em conta a utilização de novas tecnologias 
 e a necessidade do desenvolvimento de uma plataforma de e-commerce, será utilizada a linguagem
-Python através do framework Django, que conta com grande fluidez e boa curva de aprendizagem e
+Python através do framework Django, que conta com grande fluidez, boa curva de aprendizagem e
 rapidez no desenvolvimento;
 
-Para o frontend, serão utilizados recursos nativos do CSS 3, que foram recentemente adaptados aos navegadores
-mais recentes, entre elas CSS Grid Layout e Flex Box, ambas técnicas contando com grande possibilidade de 
+Para o frontend, serão utilizados recursos nativos do CSS 3 que, recentemente, foram  adaptados aos navegadores
+mais atualizados do mercado. Dentre elas temos CSS Grid Layout e Flex Box, ambas técnicas contam com grande possibilidade de 
 otimização de UX e taxa de responsividade para diversos dispositivos;
 
 Para o banco de dados será utilizado o MySQL, administrador comumente usado em aplicações web e de fácil administração
