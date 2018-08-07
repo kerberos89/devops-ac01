@@ -1,8 +1,8 @@
 # Design
- Modelo conceitual da aplicação
+# Modelo conceitual da aplicação
 
- O software deve conter um layout único, em uma página, o usuário deve fornecer os dados inicialmente para apresentação do resultado no final. 
- Deve conter integração com as redes sociais, com opções de comentários, compartilhamentos no final da página, junto a uma integração com google maps indicando o endereço da loja.  
- Ao acessar a página internet deve ser ativo um programa de chatterbot com usuário. Deve conter funcionalidades como: consulta de CEP, consulta de frete e disponibilidade do produto.
- O site deve conter uma sessão para que os usuários possam entrar em contato, ao lado com depoimentos de antigos compradores com suas avaliações.
- Deve conter também uma galeria com imagens em três fileiras sobre o produto e consumidores na loja. 
+# O software deve conter um layout único, em uma página, o usuário deve fornecer os dados inicialmente para apresentação do resultado no final. 
+# Deve conter integração com as redes sociais, com opções de comentários, compartilhamentos no final da página, junto a uma integração com google maps indicando o endereço da loja.  
+# Ao acessar a página internet deve ser ativo um programa de chatterbot com usuário. Deve conter funcionalidades como: consulta de CEP, consulta de frete e disponibilidade do produto.
+# O site deve conter uma sessão para que os usuários possam entrar em contato, ao lado com depoimentos de antigos compradores com suas avaliações.
+# Deve conter também uma galeria com imagens em três fileiras sobre o produto e consumidores na loja. 
