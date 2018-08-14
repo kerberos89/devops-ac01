@@ -1,3 +1,5 @@
+# SI 2C
+
 # Requesitos
 #Anderson Teixeira Paula/ RA: 1800834 / User do GIT: andy-30
 
@@ -61,3 +63,9 @@ com ferramentas como o SQL Workbench.
 #A análise de requisito pede que tenha uma área de login, um fluxo de compra e uma tela onde o usuário pode reclamar ou solicitar ajuda. O design atende todos esses requisitos.
 #A única coisa que não foi mencionada na parte do design foi como vai ser feito a integração com algum meio de pagamento, isso deve ser revisto.
 
+
+#Operação
+# Áureo Fujisawa
+# RA: 1701913
+# Usuátio Git: kerberos89
+# Executar os procedimentos aprovados em teste
