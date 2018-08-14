@@ -10,6 +10,7 @@
 #Design
 #Anderson da Silva Taborga
 #RA:1801922 (ALUNO DE SI)
+#Usuario do Git: AndersonTaborga
 
 # Modelo conceitual da aplicação
 
