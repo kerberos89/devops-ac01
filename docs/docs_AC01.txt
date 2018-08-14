@@ -8,6 +8,7 @@
 #Design
 #Anderson da Silva Taborga
 #RA:1801922 (ALUNO DE SI)
+#Usuario Git: AndersonTaborga
 
 # Modelo conceitual da aplicação
 
@@ -37,7 +38,7 @@ com ferramentas como o SQL Workbench.
 
 
 #Teste
-#Aderlândia Ribeiro Queiroz (Aluna SI)
+#Aderlândia Ribeiro Queiroz
 #RA: 1800561
 #Usuário Git: Aderlandia 
 
