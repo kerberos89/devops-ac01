@@ -37,7 +37,7 @@ com ferramentas como o SQL Workbench.
 
 
 #Teste
-#Aderlândia Ribeiro Queiroz
+#Aderlândia Ribeiro Queiroz (Aluna SI)
 #RA: 1800561
 #Usuário Git: Aderlandia 
 
