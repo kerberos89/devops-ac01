@@ -19,6 +19,7 @@
 # Deve conter também uma galeria com imagens em três fileiras sobre o produto e consumidores na loja.
 #Design responsivo deve ser conceitualizado junto com layout padrão.
 
+Nome: Guilherme Carvalho Lima | RA: 1701842 | Login Git: climalima99
 
 #Codificação
 
