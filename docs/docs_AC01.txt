@@ -1,4 +1,6 @@
 # Requesitos
+#Anderson Teixeira Paula/ RA: 1800834
+
 #De acordo com a análise de requisitos é fundamental que o e-commerce possua um tela de cadastro e login de acesso para permitir a interação do usuário e controlar o fluxo de compra/entrega (distribuição), além disso o catálogo de produtos tem por objetivo garantir a visualização e especificar as características dos produtos ofertados.
 #Como fluxo de compra/entrega, será realizada a integração com meio de pagamento online e integração com o sistema de logistica.
 #Para que o usuário tenha participação ativa, ele poderá recorrer ao SAC (tela de ajuda e comunicação), 
