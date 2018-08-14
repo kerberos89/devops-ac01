@@ -32,7 +32,19 @@ com ferramentas como o SQL Workbench.
 
 #Teste
 
+
 #A Análise de requisitos e o Design possuem incoerência em um dos processos, será necessário revisar antes de dar continuidade.    
+
+
+
+#Teste
+#Julia Baccarin Fabri
+#RA: 1800007  
+#Usuário GIT: 
+#De acordo com o que foi definido na análise de requisitos, o design está coerente com o que precisa ser feito. 
+#A análise de requisito pede que tenha uma área de login, um fluxo de compra e uma tela onde o usuário pode reclamar ou solicitar ajuda. O design atende todos esses requisitos.
+#A única coisa que não foi mencionada na parte do design foi como vai ser feito a integração com algum meio de pagamento, isso deve ser revisto.
+
 
 #Análise de Requisitos: Tela de cadastro e login - Design: Layout único, em uma página e integração com as redes sociais OK
 #Análise de Requisitos: Catálogo de produtos - Design: Galeria de imagens e disponibilidade do produto OK
@@ -40,5 +52,4 @@ com ferramentas como o SQL Workbench.
 #Análise de Requisitos: Integração com o sistema de logística - Design: Consulta de CEP e cálculo de frete OK
 #Análise de Requisitos: SAC (tela de ajuda e comunicação) - Design:  Programa de chatterbot com usuário e avaliações de outros usuários OK
 #Análise de Requisitos: Integração com meio de pagamento online - Design: - NOK
-
 
