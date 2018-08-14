@@ -7,7 +7,7 @@
 
 #Design
 #Anderson da Silva Taborga
-#RA:1801922
+#RA:1801922 (ALUNO DE SI)
 
 # Modelo conceitual da aplicação
 
