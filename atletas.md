@@ -6,4 +6,3 @@
 <p>Gabriel Medina</p>
 <p>Phellipe Coutinho</p>
 <p>Mohamed Ali</p>
-----
